@@ -54,3 +54,6 @@ Here's a list of what I intend to accomplish over the next couple of weeks.
 - [ ] Get around to studying Python
 
 - [ ] Ace whatever midterms are coming my way
+
+So yeah that's my little profile for you to see. 
+Also, mystery [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
