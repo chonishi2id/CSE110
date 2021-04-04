@@ -1,6 +1,6 @@
 # Daisuke Nishioka
 
-![kendo](IMG_20201001_013416_511.jpg)
+![kendo](images\IMG_20201001_013416_511.jpg)
 
 ## About Me
 
@@ -39,7 +39,7 @@ Jokes aside, here's a list of what I can do:
   - 2 Highschool Debate Tournament Gold Medals
   - Speaker experience with TedxYouth@Tokyo
 
-![ain't much but its honest work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fbut-its-honest-work&psig=AOvVaw3ldPZPI3qhCliLsFv5YP6N&ust=1617663131247000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODE4_TW5e8CFQAAAAAdAAAAABAD)
+![ain't much but its honest work](images\But_It's_Honest_Work.jpg)
 
 
 ## Goals
