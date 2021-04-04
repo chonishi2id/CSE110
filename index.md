@@ -1,6 +1,6 @@
 # Daisuke Nishioka
 
-![kendo](images\IMG_20201001_013416_511.jpg)
+![kendo](https://github.com/ecstaticstupidity/CSE110/blob/vscode-branch/images\IMG_20201001_013416_511.jpg)
 
 ## About Me
 
@@ -39,7 +39,7 @@ Jokes aside, here's a list of what I can do:
   - 2 Highschool Debate Tournament Gold Medals
   - Speaker experience with TedxYouth@Tokyo
 
-![ain't much but its honest work](images\But_It's_Honest_Work.jpg)
+![ain't much but its honest work](https://github.com/ecstaticstupidity/CSE110/blob/vscode-branch/images\But_It's_Honest_Work.jpg)
 
 
 ## Goals
